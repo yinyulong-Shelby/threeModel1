@@ -24,7 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://github.com/yinyulong-Shelby/three_try1.git -b gh-pages"
+    "deploy": "gh-pages -d build -r https://github.com/yinyulong-Shelby/threeModel1.git -b gh-pages"
   },
   "eslintConfig": {
     "extends": [
